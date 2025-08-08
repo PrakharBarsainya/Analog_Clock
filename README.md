@@ -12,7 +12,7 @@ A simple and elegant Analog Clock built using HTML, CSS, and JavaScript. This pr
 
 - 📱 Responsive design (works on desktop and mobile)
 
-🛠️ Built With
+# 🛠️ Built With
 - 🧱 HTML5 – Structure of the clock
 
 - 🎨 CSS3 – Styling and animations
